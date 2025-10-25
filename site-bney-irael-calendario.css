@@ -35,3 +35,22 @@ marquee{
     display: none;
     color: brown;
 }
+.cabeca{
+    padding: 12px;
+    background-color: brown;
+    
+}
+.infcalendario{
+    cursor: pointer;
+    background-color: aqua;
+    padding: 8px;
+    border-radius: 10px;
+    font-size: 22px;
+}
+.infcalendario:hover{
+    color: brown;
+    background-color: gold;
+}
+.h1cabeca{
+    color: gold;
+}
